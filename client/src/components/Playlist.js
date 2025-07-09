@@ -104,7 +104,7 @@ const Playlist = props => {
         <Main>
           <PlaylistContainer>
             <Left>
-              {playlist.images.length && (
+              {playlist.images && playlist.images.length > 0 && (
                 <PlaylistCover>
                   <img src={playlist.images[0].url} alt="Album Art" />
                 </PlaylistCover>
