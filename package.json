@@ -1,5 +1,5 @@
 {
-  "name": "spotify-profile",
+  "name": "spotify",
   "version": "0.1.0",
   "description": "Spotify Profile",
   "main": "server/index.js",
@@ -11,9 +11,9 @@
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bchiang7/spotify-profile/issues"
+    "url": "https://github.com/alikamatu/spotify-profile/issues"
   },
-  "homepage": "https://github.com/bchiang7/spotify-profile#readme",
+  "homepage": "https://github.com/alikamatu/spotify-profile#readme",
   "engines": {
     "node": "10.13.0"
   },
